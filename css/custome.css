@@ -1,0 +1,33 @@
+.header {
+	background-image: url('../images/1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 800px;
+}
+
+.header .row {
+	margin-top: 300px;
+}
+
+
+.title {
+	color: white;
+	background-color: black;
+	padding: 10px;
+	font-weight: 700;
+	display: inline;
+}
+
+div.icons {
+	color:black;
+	background-color: white;
+	display: inline;
+	padding: 10px;
+	position: relative;
+	top: 30px;
+	left: -160px
+}
+
+div.icons i {
+	padding: 0px 10px;
+}
