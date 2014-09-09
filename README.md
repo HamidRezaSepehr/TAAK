@@ -5,6 +5,6 @@ TAAK
 
 ### This has been coded by Atom technologies
 We are:
-Mortaza
-Hamid
-Ghasem
+Mortaza | 
+ Hamid | 
+ Ghasem
